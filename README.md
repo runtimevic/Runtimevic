@@ -43,9 +43,6 @@
   </a>
 </div>
  
-<div id="header" align="center">
-  <img src="https://github.com/runtimevic/Runtimevic/blob/master/bhf_twincat_2013.png" width="800"/>
-</div>
   
  ### :fire: Mis estadísticas :
 
