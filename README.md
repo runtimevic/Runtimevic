@@ -23,7 +23,7 @@
 
 * :seedling: Estoy perfeccionando :blue_book: y practicando :computer: Beckhoff TwinCAT, Codesys, lenguaje SQL y Python, sin dejar de lado a Siemens Tia Portal.
 
-* :heartbeat: Me encanta descubrir y reinventar aplicando las nuevas formas de todos los conocimientos adquiridos.
+* :heartbeat: Me encanta descubrir y reinventar aplicando todos los conocimientos adquiridos.
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Víctor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-dur%C3%A1n-mu%C3%B1oz-2879a913/)
   
