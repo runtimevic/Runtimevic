@@ -19,7 +19,7 @@
 
   Apasionado de la Programación y la tecnología  💻
   
-* :telescope: Ingeniero de Software y Aplicaciones en la programación para Automatización Industrial, pero buscando siempre nuevos retos :muscle:
+* :telescope: Ingeniero de Software y Aplicaciones en la programación para Automatización Industrial, pero buscando nuevos retos :muscle:
 
 * :seedling: Estoy perfeccionando :blue_book: y practicando :computer: Beckhoff TwinCAT, Codesys, lenguaje SQL y Python, sin dejar de lado a Siemens Tia Portal.
 
