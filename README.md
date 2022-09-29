@@ -26,7 +26,7 @@
 
 * :heartbeat: Me encanta descubrir y reinventar aplicando las nuevas formas de todos los conocimientos adquiridos.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Víctor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/](https://www.linkedin.com/in/v%C3%ADctor-dur%C3%A1n-mu%C3%B1oz-2879a913/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Víctor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-dur%C3%A1n-mu%C3%B1oz-2879a913/)
   
   </div>
   
