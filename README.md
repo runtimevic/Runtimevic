@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+  <img src="https://github.com/Runtimevic/Runtimevic/blob/main/Banner de LinkedIn Sencillo Tecnología.png" width="800"/>
 </div>
