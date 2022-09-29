@@ -41,7 +41,10 @@
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-  
+</div>
+ 
+<div id="header" align="center">
+  <img src="https://github.com/runtimevic/Runtimevic/blob/master/Banner%20de%20LinkedIn%20Sencillo%20Tecnolog%C3%ADa.png" width="800"/>
 </div>
   
  ### :fire: Mis estadísticas :
