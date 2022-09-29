@@ -44,7 +44,7 @@
 </div>
  
 <div id="header" align="center">
-  <img src="https://github.com/runtimevic/Runtimevic/blob/master/Banner%20de%20LinkedIn%20Sencillo%20Tecnolog%C3%ADa.png" width="800"/>
+  <img src="https://github.com/runtimevic/Runtimevic/blob/master/bhf_twincat_2013.png" width="800"/>
 </div>
   
  ### :fire: Mis estadísticas :
